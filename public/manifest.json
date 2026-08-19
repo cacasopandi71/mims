@@ -1,0 +1,23 @@
+{
+  "short_name": "MIMS",
+  "name": "Madrasah Information Management System",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/login",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "display": "standalone",
+  "orientation": "portrait",
+  "id": "mims",
+  "description": "**MIMS (Madrasah Integrated Management System)** is a modern, web-based school management platform specifically designed to streamline administrative operations within *madrasah* (Islamic school) environments.\n\nThrough MIMS, educators and school administrators can efficiently manage academic data—ranging from student attendance tracking and the compilation of daily assessment scores to the automated calculation and printing of student report cards. Featuring an intuitive interface and supported by Progressive Web App (PWA) technology, MIMS is quickly accessible via both computers and mobile devices (Android), thereby fostering the digitalization of an educational ecosystem that is more structured, transparent, and accountable."
+}
